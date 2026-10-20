@@ -19,7 +19,7 @@ function Contact() {
         <h2 className="contact-title contact-title-dark">Let's build something.</h2>
         
         <a href="mailto:hello@example.com" className="contact-email contact-email-dark">
-          hello@example.com
+          madarang.simone@outlook.com
         </a>
       </motion.div>
       
@@ -35,7 +35,6 @@ function Contact() {
         <div className="social-links social-links-dark">
           <a href="#" target="_blank" rel="noreferrer">LinkedIn</a>
           <a href="#" target="_blank" rel="noreferrer">GitHub</a>
-          <a href="#" target="_blank" rel="noreferrer">Twitter</a>
         </div>
       </motion.div>
     </footer>
