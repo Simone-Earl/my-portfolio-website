@@ -33,8 +33,9 @@ function Contact() {
       >
         <p>© {new Date().getFullYear()} Simone. All rights reserved.</p>
         <div className="social-links social-links-dark">
-          <a href="#" target="_blank" rel="noreferrer">LinkedIn</a>
-          <a href="#" target="_blank" rel="noreferrer">GitHub</a>
+          <a href="https://www.linkedin.com/in/simone-earl-madarang-7a025234b/" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a href="https://github.com/Simone-Earl" target="_blank" rel="noreferrer">GitHub</a>
+          <a href="https://discord.com/users/668241937416978442" target="_blank" rel="noreferrer">Discord</a>
         </div>
       </motion.div>
     </footer>
